@@ -8,6 +8,14 @@
     "category": "show",
     "notes": "",
     "people": [],
-    "equipment": []
+    "equipment": [
+      {
+        "id": "mtug14i0y5vvdg",
+        "name": "sues",
+        "qty": 1,
+        "packed": false,
+        "owner": "Robson"
+      }
+    ]
   }
 ]
