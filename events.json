@@ -156,6 +156,14 @@
         "confirmed": false
       }
     ],
-    "equipment": []
+    "equipment": [
+      {
+        "id": "mtvxcyymrr3nug",
+        "name": "Ps5 pro",
+        "qty": 1,
+        "packed": false,
+        "owner": "Robson"
+      }
+    ]
   }
 ]
