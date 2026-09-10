@@ -95,7 +95,7 @@
         "id": "mtvx5o8ny73o0o",
         "name": "regras,enfeites,certificados",
         "qty": 1,
-        "packed": false,
+        "packed": true,
         "owner": "Robson"
       },
       {
