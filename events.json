@@ -202,7 +202,13 @@
     "location": "Senac - Blumenau SC",
     "category": "casamento",
     "notes": "Evento proprio",
-    "people": [],
+    "people": [
+      {
+        "id": "mtvycdf1sdw0pr",
+        "name": "Robson",
+        "confirmed": false
+      }
+    ],
     "equipment": []
   }
 ]
