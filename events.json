@@ -5,7 +5,7 @@
     "date": "2026-09-19",
     "time": "13:00",
     "location": "Teatro Michelangelo - Blumenau SC",
-    "category": "festa",
+    "category": "show",
     "notes": "Arena gamer privada paga no valor de 25 reais cobrado pela bilheteria BCX",
     "people": [
       {
@@ -67,6 +67,16 @@
         "id": "mtvx0noo85exp4",
         "name": "Victor",
         "confirmed": false
+      },
+      {
+        "id": "mtvxz054wvnzbn",
+        "name": "Rodrigo Gaulke",
+        "confirmed": false
+      },
+      {
+        "id": "mtvxz4rpeyhnne",
+        "name": "Ricardo Gaulke",
+        "confirmed": false
       }
     ],
     "equipment": [
@@ -118,6 +128,20 @@
         "qty": 1,
         "packed": false,
         "owner": "Wesley"
+      },
+      {
+        "id": "mtvy016tvjqd19",
+        "name": "Super Famicom + Street Figther II",
+        "qty": 1,
+        "packed": false,
+        "owner": "Rodrigo Gaulke"
+      },
+      {
+        "id": "mtvy0gkm3hji4h",
+        "name": "TV 32",
+        "qty": 1,
+        "packed": false,
+        "owner": "Rodrigo Gaulke"
       }
     ]
   },
@@ -193,37 +217,5 @@
         "owner": "Robson"
       }
     ]
-  },
-  {
-    "id": "mtvyc0jevybzxa",
-    "title": "Evento Game Club 2 Edicao",
-    "date": "2026-11-14",
-    "time": "09:00",
-    "location": "Senac - Blumenau SC",
-    "category": "casamento",
-    "notes": "Evento proprio",
-    "people": [
-      {
-        "id": "mtvycdf1sdw0pr",
-        "name": "Robson",
-        "confirmed": false
-      },
-      {
-        "id": "mtvycey45fmzgn",
-        "name": "Renata",
-        "confirmed": false
-      },
-      {
-        "id": "mtvychxjgowj9l",
-        "name": "Anderson Rateiro",
-        "confirmed": false
-      },
-      {
-        "id": "mtvycir1sduii6",
-        "name": "Dai",
-        "confirmed": false
-      }
-    ],
-    "equipment": []
   }
 ]
