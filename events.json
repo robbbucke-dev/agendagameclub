@@ -6,7 +6,7 @@
     "time": "13:00",
     "location": "Teatro Michelangelo - Blumenau SC",
     "category": "festa",
-    "notes": "Arena gamer privada paga no valor de 25 reais cobrado pela bilheteria BCX - Divisão de 50%",
+    "notes": "Arena gamer privada paga no valor de 25 reais cobrado pela bilheteria BCX",
     "people": [
       {
         "id": "mtvwzlvlwrhvl0",
@@ -69,8 +69,8 @@
         "confirmed": false
       },
       {
-        "id": "mtvydwt1cqgfmi",
-        "name": "Kassi",
+        "id": "mtvyfhs0h2lbex",
+        "name": "Gaulke",
         "confirmed": false
       }
     ],
@@ -133,7 +133,7 @@
     "time": "09:00",
     "location": "Fair Play em frente campo do Avai",
     "category": "show",
-    "notes": "Arena Gamer cobrado entrada a parte Divisões de 33%  .",
+    "notes": "",
     "people": [
       {
         "id": "mtvxa3khec0i57",
@@ -206,7 +206,7 @@
     "time": "09:00",
     "location": "Senac - Blumenau SC",
     "category": "casamento",
-    "notes": "Evento proprio - free",
+    "notes": "Evento proprio",
     "people": [
       {
         "id": "mtvycdf1sdw0pr",
@@ -246,26 +246,6 @@
       {
         "id": "mtvycv5xr8smxi",
         "name": "Jo",
-        "confirmed": false
-      },
-      {
-        "id": "mtvyd1jvrudzje",
-        "name": "Victor",
-        "confirmed": false
-      },
-      {
-        "id": "mtvyd32o7qvcfu",
-        "name": "Kassi",
-        "confirmed": false
-      },
-      {
-        "id": "mtvyd4et0tpped",
-        "name": "Alex",
-        "confirmed": false
-      },
-      {
-        "id": "mtvydfy3u111py",
-        "name": "Dai",
         "confirmed": false
       }
     ],
