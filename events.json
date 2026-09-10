@@ -69,6 +69,14 @@
         "confirmed": false
       }
     ],
-    "equipment": []
+    "equipment": [
+      {
+        "id": "mtvx1nf2b030dj",
+        "name": "Swtich 1",
+        "qty": 1,
+        "packed": false,
+        "owner": "Robson"
+      }
+    ]
   }
 ]
