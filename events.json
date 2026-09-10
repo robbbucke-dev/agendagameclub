@@ -7,7 +7,13 @@
     "location": "Teatro Michelangelo - Blumenau SC",
     "category": "festa",
     "notes": "Arena gamer privada paga no valor de 25 reais cobrado pela bilheteria BCX",
-    "people": [],
+    "people": [
+      {
+        "id": "mtvwzlvlwrhvl0",
+        "name": "Robson",
+        "confirmed": false
+      }
+    ],
     "equipment": []
   }
 ]
