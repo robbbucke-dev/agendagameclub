@@ -129,7 +129,13 @@
     "location": "Fair Play em frente campo do Avai",
     "category": "show",
     "notes": "",
-    "people": [],
+    "people": [
+      {
+        "id": "mtvxa3khec0i57",
+        "name": "Robson",
+        "confirmed": false
+      }
+    ],
     "equipment": []
   }
 ]
