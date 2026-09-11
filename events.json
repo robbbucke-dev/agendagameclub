@@ -293,7 +293,13 @@
     "location": "Jardim Botânico - Itacorubi  Floripa SC",
     "category": "festa",
     "notes": "Evento com Cache para os custos operacionais .",
-    "people": [],
+    "people": [
+      {
+        "id": "mtxbeblc6l4r62",
+        "name": "Robson",
+        "confirmed": false
+      }
+    ],
     "equipment": []
   }
 ]
