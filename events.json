@@ -315,7 +315,13 @@
     "location": "Estadio Fair Play Curitiba",
     "category": "show",
     "notes": "Evento com cache e despesas pagas ",
-    "people": [],
+    "people": [
+      {
+        "id": "mtxbntpos58g0u",
+        "name": "Robson",
+        "confirmed": false
+      }
+    ],
     "equipment": []
   }
 ]
