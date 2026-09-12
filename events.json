@@ -357,7 +357,13 @@
     "location": "Gibiteca Silmar Geremia",
     "category": "casamento",
     "notes": "",
-    "people": [],
+    "people": [
+      {
+        "id": "mtxqoy9i1cesmu",
+        "name": "Gaulke",
+        "confirmed": false
+      }
+    ],
     "equipment": []
   }
 ]
