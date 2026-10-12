@@ -312,6 +312,41 @@
         "qty": 1,
         "packed": false,
         "owner": "Robson"
+      },
+      {
+        "id": "mv5just24n5kbq",
+        "name": "Swtich 1 + controles",
+        "qty": 1,
+        "packed": false,
+        "owner": "Andre"
+      },
+      {
+        "id": "mv5jv4m9hdl2yq",
+        "name": "Switch 2 + controles",
+        "qty": 1,
+        "packed": false,
+        "owner": "Andre"
+      },
+      {
+        "id": "mv5jvm3edrrjlv",
+        "name": "Fonte e sensor bar wii",
+        "qty": 1,
+        "packed": false,
+        "owner": "Andre"
+      },
+      {
+        "id": "mv5jwzovatha7f",
+        "name": "Contoles snes",
+        "qty": 1,
+        "packed": false,
+        "owner": "Rodrigo Gaulke"
+      },
+      {
+        "id": "mv5jxdrthiamir",
+        "name": "wii",
+        "qty": 1,
+        "packed": false,
+        "owner": "Robson"
       }
     ]
   },
