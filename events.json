@@ -466,11 +466,6 @@
     "notes": "Evento com cache e despesas pagas ",
     "people": [
       {
-        "id": "mtxbntpos58g0u",
-        "name": "Robson",
-        "confirmed": false
-      },
-      {
         "id": "mtxbo0ewt006ec",
         "name": "Victor",
         "confirmed": false
