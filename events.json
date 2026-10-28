@@ -427,7 +427,15 @@
         "confirmed": false
       }
     ],
-    "equipment": []
+    "equipment": [
+      {
+        "id": "mvscwdlwq5guq8",
+        "name": "TV 32",
+        "qty": 1,
+        "packed": false,
+        "owner": "Gaulke"
+      }
+    ]
   },
   {
     "id": "mtxbdy6q7ycrou",
