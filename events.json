@@ -193,6 +193,13 @@
         "qty": 1,
         "packed": false,
         "owner": "Robson"
+      },
+      {
+        "id": "mw9tfitaxpz9g7",
+        "name": "enfeites geral do evento",
+        "qty": 1,
+        "packed": false,
+        "owner": "dai"
       }
     ]
   },
