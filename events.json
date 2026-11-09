@@ -151,6 +151,13 @@
         "qty": 1,
         "packed": false,
         "owner": "Anderson Doneda"
+      },
+      {
+        "id": "mw9t2kmwovph9c",
+        "name": "switch 1",
+        "qty": 1,
+        "packed": false,
+        "owner": "Robson"
       }
     ]
   },
