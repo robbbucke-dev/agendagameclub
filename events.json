@@ -177,7 +177,13 @@
     "location": "Senai - Sc 401",
     "category": "festa",
     "notes": "Stun games - 4 tv disponíveis. . Free",
-    "people": [],
+    "people": [
+      {
+        "id": "mw9sxnecmrv3h3",
+        "name": "Robson",
+        "confirmed": false
+      }
+    ],
     "equipment": []
   }
 ]
