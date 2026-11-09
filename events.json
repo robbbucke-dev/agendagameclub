@@ -184,6 +184,14 @@
         "confirmed": false
       }
     ],
-    "equipment": []
+    "equipment": [
+      {
+        "id": "mw9sy0whmtc1fk",
+        "name": "Switch 1",
+        "qty": 1,
+        "packed": false,
+        "owner": "Robson"
+      }
+    ]
   }
 ]
