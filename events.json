@@ -170,43 +170,6 @@
     "equipment": []
   },
   {
-    "id": "mtxbnlbvl70hni",
-    "title": "Fair Play Parana 30 out ate 2 nov",
-    "date": "2026-10-30",
-    "time": "09:00",
-    "location": "Estadio Fair Play Curitiba",
-    "category": "show",
-    "notes": "Evento com cache e despesas pagas ",
-    "people": [
-      {
-        "id": "mtxbo0ewt006ec",
-        "name": "Victor",
-        "confirmed": false
-      },
-      {
-        "id": "mtxbo7l8p09av7",
-        "name": "Anderson Rateiro",
-        "confirmed": false
-      },
-      {
-        "id": "mtxbo93obmjiwo",
-        "name": "Dai",
-        "confirmed": false
-      },
-      {
-        "id": "mvf9no1jgzp3ib",
-        "name": "kassandra",
-        "confirmed": false
-      },
-      {
-        "id": "mvf9npl74c7ipb",
-        "name": "Davi",
-        "confirmed": false
-      }
-    ],
-    "equipment": []
-  },
-  {
     "id": "mtxqojlnww95jv",
     "title": "2 Encontro Retro Gamers Chapecó",
     "date": "2026-11-08",
