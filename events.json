@@ -145,6 +145,13 @@
         "qty": 1,
         "packed": false,
         "owner": "Dai"
+      },
+      {
+        "id": "mwuzjooig55540",
+        "name": "caixa som + mic",
+        "qty": 1,
+        "packed": false,
+        "owner": "Andre"
       }
     ]
   },
