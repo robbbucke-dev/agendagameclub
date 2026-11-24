@@ -96,6 +96,13 @@
         "qty": 1,
         "packed": false,
         "owner": "Robson"
+      },
+      {
+        "id": "mwuye8jwhlxm97",
+        "name": "switch 2",
+        "qty": 1,
+        "packed": false,
+        "owner": "Robson"
       }
     ]
   }
