@@ -270,37 +270,5 @@
         "owner": "Anderson Rateiro"
       }
     ]
-  },
-  {
-    "id": "mw9sx6f9krzyxq",
-    "title": "Stun Games",
-    "date": "2026-11-21",
-    "time": "09:00",
-    "location": "Senai - Sc 401",
-    "category": "festa",
-    "notes": "Stun games - 4 tv disponíveis. . Free",
-    "people": [
-      {
-        "id": "mw9sxnecmrv3h3",
-        "name": "Robson",
-        "confirmed": false
-      }
-    ],
-    "equipment": [
-      {
-        "id": "mw9sy0whmtc1fk",
-        "name": "Switch 1",
-        "qty": 1,
-        "packed": false,
-        "owner": "Robson"
-      },
-      {
-        "id": "mw9sye3h14tu9y",
-        "name": "arcade",
-        "qty": 1,
-        "packed": false,
-        "owner": "Robson"
-      }
-    ]
   }
 ]
