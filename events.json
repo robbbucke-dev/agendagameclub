@@ -247,7 +247,15 @@
         "confirmed": false
       }
     ],
-    "equipment": []
+    "equipment": [
+      {
+        "id": "mwupa1fll4lddv",
+        "name": "TV Semp 10\"",
+        "qty": 1,
+        "packed": false,
+        "owner": "Anderson Rateiro"
+      }
+    ]
   },
   {
     "id": "mw9sx6f9krzyxq",
